@@ -4,3 +4,4 @@ Rencana Web Personal
 - contentnya animate scroll 
 - design simpel tapi keran
 - Bisa di upload online
+- Harus bisa diupdate
