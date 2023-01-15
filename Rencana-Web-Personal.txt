@@ -5,3 +5,4 @@ Rencana Web Personal
 - design simpel tapi keran
 - Bisa di upload online
 - web nya jangan terlalu berat 
+- Jangan terlalu banyak warna
