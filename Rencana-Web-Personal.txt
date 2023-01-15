@@ -3,3 +3,4 @@ Rencana Web Personal
 - fokus ke profil diri
 - contentnya animate scroll 
 - design simpel tapi keran
+- Bisa di upload online
