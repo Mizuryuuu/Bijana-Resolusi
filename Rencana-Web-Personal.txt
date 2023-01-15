@@ -1,0 +1,5 @@
+Rencana Web Personal 
+- Web Paralax 
+- fokus ke profil diri
+- contentnya animate scroll 
+- design simpel tapi keran
